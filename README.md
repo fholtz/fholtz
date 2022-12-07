@@ -9,5 +9,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PHP/JS projects
 - 🌱 I’m currently learning SQL
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fholtz&show_icons=true&theme=gradient&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fholtz&layout=compact&theme=gradient&count_private=true)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fholtz&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fholtz&layout=compact&theme=radical&count_private=true" />
+</a>
